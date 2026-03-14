@@ -49,7 +49,7 @@ Building modern web platforms, mobile apps and digital products.
 
 Email: [info@sametkuku.com](mailto:info@sametkuku.com)
 <br>
-Website: [https://sametkuku.com](https://sametkuku.com)
+X: [[https://sametkuku.com](https://x.com/samettkuku)]([https://sametkuku.com](https://x.com/samettkuku))
 
 ---
 
