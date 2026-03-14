@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SametKuku/SametKuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Samet Kuku
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full Stack & Mobile Developer**
+
+Building modern web platforms, mobile apps and digital products.
+
+ [Email](mailto:zsamet996@gmail.com) • [GitHub](https://github.com/SametKuku)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- Full Stack & Mobile Developer based in **Konya, Turkey**
+- Building **web platforms, mobile applications and software systems**
+- Working with **Laravel, Flutter, React, Node.js**
+- Interested in **automation systems and game development**
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,tailwind,flutter,firebase,mysql,unity&theme=dark&perline=10" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Samet Kuku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SametKuku&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SametKuku&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+</div>
+
+
+
+## 📬 Contact
+
+Email: [info@sametkuku.com](mailto:info@sametkuku.com)
+<br>
+Website: [https://sametkuku.com](https://sametkuku.com)
+
+---
+
