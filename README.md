@@ -16,10 +16,12 @@ Building modern web platforms, mobile apps and digital products.
 
 ## 🧑‍💻 About Me
 
-- Full Stack & Mobile Developer based in **Konya, Turkey**
+- Full Stack  Developer based in **Konya, Turkey**
+- Currently working at Adshub Creative Agency
 - Building **web platforms, mobile applications and software systems**
 - Working with **Laravel, Flutter, React, Node.js**
-- Interested in **automation systems and game development**
+
+
 
 ---
 
