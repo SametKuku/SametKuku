@@ -4,7 +4,7 @@
 
 ---
 
-**Full Stack & Mobile Developer**
+**Full Stack & Backend Developer**
 
 Building modern web platforms, mobile apps and digital products.
 
